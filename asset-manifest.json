@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/UTD-website/static/css/main.a61988b8.chunk.css",
+    "main.js": "/UTD-website/static/js/main.396cde99.chunk.js",
+    "main.js.map": "/UTD-website/static/js/main.396cde99.chunk.js.map",
+    "runtime-main.js": "/UTD-website/static/js/runtime-main.b92ff97c.js",
+    "runtime-main.js.map": "/UTD-website/static/js/runtime-main.b92ff97c.js.map",
+    "static/js/2.844cafda.chunk.js": "/UTD-website/static/js/2.844cafda.chunk.js",
+    "static/js/2.844cafda.chunk.js.map": "/UTD-website/static/js/2.844cafda.chunk.js.map",
+    "index.html": "/UTD-website/index.html",
+    "precache-manifest.b0ec9208e454a8ef531ca6fde0b10a91.js": "/UTD-website/precache-manifest.b0ec9208e454a8ef531ca6fde0b10a91.js",
+    "service-worker.js": "/UTD-website/service-worker.js",
+    "static/css/main.a61988b8.chunk.css.map": "/UTD-website/static/css/main.a61988b8.chunk.css.map",
+    "static/js/2.844cafda.chunk.js.LICENSE": "/UTD-website/static/js/2.844cafda.chunk.js.LICENSE",
+    "static/media/image-of-utd-near-atec.jpg": "/UTD-website/static/media/image-of-utd-near-atec.9b3051e3.jpg",
+    "static/media/student-page-background.png": "/UTD-website/static/media/student-page-background.10ee99d6.png",
+    "static/media/temoc.jpg": "/UTD-website/static/media/temoc.6fd339fb.jpg",
+    "static/media/utd-logo.jpg": "/UTD-website/static/media/utd-logo.301929d8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92ff97c.js",
+    "static/js/2.844cafda.chunk.js",
+    "static/css/main.a61988b8.chunk.css",
+    "static/js/main.396cde99.chunk.js"
+  ]
+}
